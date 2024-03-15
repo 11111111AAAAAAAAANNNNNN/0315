@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Fri, 15 Mar 2024 11:54:17 +0800</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://example.org/posts/my-first-post/</link>
+      <pubDate>Fri, 15 Mar 2024 11:54:17 +0800</pubDate>
+      <guid>https://example.org/posts/my-first-post/</guid>
+      <description>一轮明月，挂在初冬夜空，清冷的光照彻了万物，天地一片宁静，你是否会摘抄这样的优美句子呢？本文是小编为大家收集整理的优美好句摘抄（精选150句），欢迎参考借鉴。
+1、岁月一点一滴的溜走，在不经意间，快的让我们都来不及在下一个路口挽留。也无法预测人生未知的镜头。
+2、能冲刷一切的除了眼泪，就是时间，以时间来推移感情，时间越长，冲突越淡，仿佛不断稀释的茶。
+3、真正的平静，不是避开车马喧嚣，而是在心中修篱种菊。尽管如流往事，每一天都涛声依旧，只要我们消除执念，便可寂静安然。愿每个人，在纷呈世相中不会迷失荒径，可以端坐磐石上，醉倒落花前。
+4、春有百花秋有月，夏有凉风冬有雪。若无闲事挂心头，便是人间好时节。</description>
+    </item>
+  </channel>
+</rss>
